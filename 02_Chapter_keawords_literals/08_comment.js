@@ -8,5 +8,5 @@ This is yet another line of the multi-line comment
 
 */
 
-var a = 10; // cmd+/ ,ctr+/
+var a = 10; // cmd+/ ,ctr+/ Rup
 
